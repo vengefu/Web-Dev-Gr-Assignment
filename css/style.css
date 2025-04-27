@@ -153,7 +153,7 @@ body {
 .hero-section {
   position: relative;
   z-index: 998;
-  height: 7vh;
+  height: 15vh;
   padding: 1rem 0.5rem; /* Reduced padding */
   display: flex;
   flex-wrap: wrap;
