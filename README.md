@@ -1,44 +1,72 @@
-# Web Development Group Challenge
+# 🌐 Web Development Group Challenge
 
 > A collaborative project built as part of the PLP Curriculum in Web Development.
 
-## Project Overview
+---
 
-This project is a web-based application developed during our group challenge using only the technologies covered in class. It demonstrates our teamwork, creativity, and understanding of web development principles—focusing on functionality, user experience, clean code, and responsiveness.
+## 📋 Project Overview
 
-## Solution Approach
+This project is a **web-based application** developed during our group challenge using only the technologies covered in class.  
+It demonstrates our **teamwork**, **creativity**, and **understanding of web development principles**, focusing on:
 
-We started by brainstorming ideas together and selecting one that aligned well with the week's objectives. Using a shared planning document, we divided tasks based on individual strengths and interests. Our process included:
+- Functionality
+- User experience (UX)
+- Clean, maintainable code
+- Responsive design across devices
 
-- **Wireframing & Planning** – Used zoom meeting for communication and whatsapp for back up.
-- **Tech Stack** – HTML, CSS, JavaScript and Bootstrap framework.
-- **GitHub Collaboration** – We used branches and pull requests to manage code contributions.
-- **Testing & Feedback** – Internal testing sessions and peer feedback loops helped us refine our work.
+---
 
-## Technologies Used
+## 🛠️ Solution Approach
+
+We followed a structured and collaborative process:
+
+- **Brainstorming & Idea Selection:**  
+  We brainstormed together and selected an idea that aligned with the week’s objectives.
+  
+- **Wireframing & Planning:**  
+  Conducted Zoom meetings for communication and used WhatsApp for backup coordination.
+
+- **Tech Stack:**  
+  HTML, CSS, JavaScript, and the Bootstrap framework were used.
+
+- **GitHub Collaboration:**  
+  Managed code contributions through **branches** and **pull requests**, ensuring smooth teamwork.
+
+- **Testing & Feedback:**  
+  Held internal testing sessions and peer feedback loops to refine the final product.
+
+---
+
+## 🧰 Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
-- [Optional: Bootstrap CSS]
+- (Optional: Bootstrap CSS)
 
-## Group Members
+---
 
-- **[Violet Engefu]** – [Member]
-- **[Jacob Kau]** – [moderator]
-- **[Moses Mutinda]** – [member]
+## 👥 Group Members
+
+- **Violet Engefu** – Member
+- **Jacob Kau** – Moderator
+- **Moses Mutinda** – Member
 
 > Everyone contributed equally and collaborated actively throughout the project lifecycle.
 
-## Features Implemented
+---
 
-- [✔️ Bootstrap styling]
-- [✔️ clear idea implementation]
-- [✔️ Responsive Layout]
-- [✔️ Accessible Design]
-- [✔️ Clear Navigation & UI]
+## ✨ Features Implemented
 
-## Folder Structure
+- ✔️ Bootstrap styling
+- ✔️ Clear idea implementation
+- ✔️ Responsive layout
+- ✔️ Accessible design
+- ✔️ Clear navigation and intuitive UI
+
+---
+
+## 📁 Folder Structure
 
 WEB-DEV-GR-ASSIGNMENT
 |__CSS-style.css
