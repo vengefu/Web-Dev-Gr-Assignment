@@ -76,4 +76,4 @@ WEB-DEV-GR-ASSIGNMENT
 |__Readme.md file - this is the informational file
 
 ## Deployment
-The site was deployed here [https://jacobkau.github.io/deployed.github.io/](Web development Group 9 assignment)
+The site was deployed here [https://jacobkau.github.io/deployed.github.io/].(Web development Group 9 assignment)
