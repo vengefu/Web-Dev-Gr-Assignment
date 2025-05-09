@@ -1,5 +1,3 @@
-https://mutindaa254.github.io/Web-Dev-Gr-Assignment/
-
 # 🌐 Web Development Group Challenge
 
 > A collaborative project built as part of the PLP Curriculum in Web Development.
@@ -76,3 +74,6 @@ WEB-DEV-GR-ASSIGNMENT
 |__images - contains all the images that were used in the development of the webpage
 |__index.html - the webpage created
 |__Readme.md file - this is the informational file
+
+## Deployment
+The site was deployed here [https://jacobkau.github.io/deployed.github.io/](Web development Group 9 assignment)
