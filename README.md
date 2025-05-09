@@ -1,3 +1,5 @@
+https://mutindaa254.github.io/Web-Dev-Gr-Assignment/
+
 # 🌐 Web Development Group Challenge
 
 > A collaborative project built as part of the PLP Curriculum in Web Development.
