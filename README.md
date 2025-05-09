@@ -77,6 +77,6 @@ WEB-DEV-GR-ASSIGNMENT
 
 ## 🌐 Live Website
 
-The site was deployed here: [https://jacobkau.github.io/deployed.github.io/](https://jacobkau.github.io/deployed.github.io/)  
+The site was deployed here: [https://vengefu.github.io/Web-Dev-Gr-Assignment/](https://vengefu.github.io/Web-Dev-Gr-Assignment/)  
 _Web Development Group 9 Assignment_
 
